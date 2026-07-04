@@ -309,5 +309,5 @@ AWS EC2 환경에서는 Oracle DB 서버를 구축하고 프로젝트 서버와 
 
 - ✉️ Email: tjsrud0443@gmail.com
 - 🐙 GitHub: [github.com/tjsrud0443-ux](https://github.com/tjsrud0443-ux)
-- 📝 Notion: [Notion Portfolio](https://complex-chord-dba.notion.site/About-Me-2e8c59b1c172820395a781315af4c21f?source=copy_link)
+- 📝 Notion: [Notion Portfolio](https://complex-chord-dba.notion.site/Portfolio-1ebc59b1c172828a8ef7812704f611fa?source=copy_link)
 - 🌐 Portfolio: [SunKyung.dev](https://sunkyungdev.netlify.app/)
