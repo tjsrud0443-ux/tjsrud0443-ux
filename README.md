@@ -34,6 +34,7 @@
 - 🐻 Zustand
 - 📡 Axios
 - 📊 Chart.js
+- 🗺 Kakao Maps API
 
 ### 🗄 Database
 - 🧡 Oracle DB
@@ -251,7 +252,8 @@ Q&A 관리 기능을 중심으로 웹 서비스의 기본 흐름을 경험했습
 - JSTL / EL
 - Ajax
 - Chart.js
-- 공공 API
+- Kakao Maps API
+- 공공데이터 API
 
 #### Tools
 - Git / GitHub
