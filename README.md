@@ -18,53 +18,53 @@
 ## 🛠 Tech Stack
 
 ### 🧩 Backend
-☕ Java 17
-🍃 Spring Boot
-🌱 Spring MVC / Legacy
-🗂 MyBatis
-🔗 REST API
-🔐 JWT
-🔌 WebSocket / STOMP
+- ☕ Java 17
+- 🍃 Spring Boot
+- 🌱 Spring MVC / Legacy
+- 🗂 MyBatis
+- 🔗 REST API
+- 🔐 JWT
+- 🔌 WebSocket / STOMP
 
 ### 🎨 Frontend
-⚛️ React
-🟨 JavaScript
-🧱 HTML5
-🎨 CSS3
-🌬 Tailwind CSS
-🐻 Zustand
-📡 Axios
-📊 Chart.js
-🗺 Kakao Maps API
+- ⚛️ React
+- 🟨 JavaScript
+- 🧱 HTML5
+- 🎨 CSS3
+- 🌬 Tailwind CSS
+- 🐻 Zustand
+- 📡 Axios
+- 📊 Chart.js
+- 🗺 Kakao Maps API
 
 ### 🗄 Database
-🧡 Oracle DB
+- 🧡 Oracle DB
 
 ### 🤖 AI / Search
-⚡ FastAPI
-🧠 Spring AI
-💬 Gemini / ChatClient
-🔎 Qdrant
-📌 BAAI/bge-m3
-🔍 Vector Similarity Search
+- ⚡ FastAPI
+- 🧠 Spring AI
+- 💬 Gemini / ChatClient
+- 🔎 Qdrant
+- 📌 BAAI/bge-m3
+- 🔍 Vector Similarity Search
 
 ### ☁️ Infra / Deploy
-☁️ AWS EC2
-☁️ GCP Compute Engine
-🗃 GCP Storage
-🐳 Docker
-🌐 Nginx
-🔒 Certbot SSL
-🔥 Firebase Hosting
-🔄 GitHub Actions
+- ☁️ AWS EC2
+- ☁️ GCP Compute Engine
+- 🗃 GCP Storage
+- 🐳 Docker
+- 🌐 Nginx
+- 🔒 Certbot SSL
+- 🔥 Firebase Hosting
+- 🔄 GitHub Actions
 
 ### 🧰 Tools
-🐙 Git / GitHub
-💻 VSCode / Eclipse
-🗄 Oracle SQL Developer
-🎨 Figma
-📐 Balsamiq
-📝 Notion
+- 🐙 Git / GitHub
+- 💻 VSCode / Eclipse
+- 🗄 Oracle SQL Developer
+- 🎨 Figma
+- 📐 Balsamiq
+- 📝 Notion
 ---
 
 ## 📌 Projects
