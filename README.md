@@ -18,23 +18,53 @@
 ## 🛠 Tech Stack
 
 ### 🧩 Backend
-☕ Java 17 · 🍃 Spring Boot · 🌱 Spring MVC / Legacy · 🗂 MyBatis · 🔗 REST API · 🔐 JWT · 🔌 WebSocket / STOMP
+☕ Java 17
+🍃 Spring Boot
+🌱 Spring MVC / Legacy
+🗂 MyBatis
+🔗 REST API
+🔐 JWT
+🔌 WebSocket / STOMP
 
 ### 🎨 Frontend
-⚛️ React · 🟨 JavaScript · 🧱 HTML5 · 🎨 CSS3 · 🌬 Tailwind CSS · 🐻 Zustand · 📡 Axios · 📊 Chart.js · 🗺 Kakao Maps API
+⚛️ React
+🟨 JavaScript
+🧱 HTML5
+🎨 CSS3
+🌬 Tailwind CSS
+🐻 Zustand
+📡 Axios
+📊 Chart.js
+🗺 Kakao Maps API
 
 ### 🗄 Database
 🧡 Oracle DB
 
 ### 🤖 AI / Search
-⚡ FastAPI · 🧠 Spring AI · 💬 Gemini / ChatClient · 🔎 Qdrant · 📌 BAAI/bge-m3 · 🔍 Vector Similarity Search
+⚡ FastAPI
+🧠 Spring AI
+💬 Gemini / ChatClient
+🔎 Qdrant
+📌 BAAI/bge-m3
+🔍 Vector Similarity Search
 
 ### ☁️ Infra / Deploy
-☁️ AWS EC2 · ☁️ GCP Compute Engine · 🗃 GCP Storage · 🐳 Docker · 🌐 Nginx · 🔒 Certbot SSL · 🔥 Firebase Hosting · 🔄 GitHub Actions
+☁️ AWS EC2
+☁️ GCP Compute Engine
+🗃 GCP Storage
+🐳 Docker
+🌐 Nginx
+🔒 Certbot SSL
+🔥 Firebase Hosting
+🔄 GitHub Actions
 
 ### 🧰 Tools
-🐙 Git / GitHub · 💻 VSCode / Eclipse · 🗄 Oracle SQL Developer · 🎨 Figma · 📐 Balsamiq · 📝 Notion
-
+🐙 Git / GitHub
+💻 VSCode / Eclipse
+🗄 Oracle SQL Developer
+🎨 Figma
+📐 Balsamiq
+📝 Notion
 ---
 
 ## 📌 Projects
@@ -231,3 +261,11 @@ AI 챗봇에 정형 DB 질의 라우팅을 추가해 Hybrid RAG 구조로 확장
 - 팀 프로젝트를 통해 지역 커뮤니티 플랫폼과 기업형 그룹웨어 시스템 구현
 - RAG 기반 AI 챗봇, 실시간 알림, 전자결재 문서함, 조직도, 프로젝트 칸반보드 등 업무 시스템 기능 구현 경험
 - 교육과정 종료 후 Orbit 3차 고도화를 통해 Hybrid RAG 구조 확장 등 상용화 검증 진행 중
+
+---
+## 📞 Contact
+
+- **Email** : tjsrud0443@gmail.com
+- **GitHub** : [github.com/tjsrud0443-ux](https://github.com/tjsrud0443-ux)
+- **Notion** : [Notion](https://complex-chord-dba.notion.site/Portfolio-1ebc59b1c172828a8ef7812704f611fa?pvs=143)
+- **Portfolio** : [sunkyungdev.netlify.app](https://sunkyungdev.netlify.app/)
