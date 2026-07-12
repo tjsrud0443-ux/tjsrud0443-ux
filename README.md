@@ -47,6 +47,8 @@
 - 🔎 Qdrant
 - 📌 BAAI/bge-m3
 - 🔍 Vector Similarity Search
+- 🧩 Hybrid RAG (3차 고도화)
+- 🗃 Structured DB Routing (3차 고도화)
 
 ### ☁️ Infra / Deploy
 - ☁️ AWS EC2
