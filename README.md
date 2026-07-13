@@ -261,7 +261,7 @@ AI 챗봇에 정형 DB 질의 라우팅을 추가해 Hybrid RAG 구조로 확장
 - Java, Spring, Oracle DB, JavaScript, React 기반 웹 개발 학습
 - 팀 프로젝트를 통해 지역 커뮤니티 플랫폼과 기업형 그룹웨어 시스템 구현
 - RAG 기반 AI 챗봇, 실시간 알림, 전자결재 문서함, 조직도, 프로젝트 칸반보드 등 업무 시스템 기능 구현 경험
-- 교육과정 종료 후 Orbit 3차 고도화를 통해 Hybrid RAG 구조 확장 등 상용화 검증 진행 중
+- 2차 프로젝트 종료 이후 Orbit 3차 고도화를 통해 Hybrid RAG 구조 확장 등 상용화 검증 진행 중
 
 ---
 ## 📞 Contact
